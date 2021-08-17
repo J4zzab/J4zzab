@@ -9,8 +9,7 @@ Coder guy. Couldn't put an underscore in my username so just imagine it's there.
 <h3>What am I working on?</h3>
 
 	• 'user' Discord bot
-	• Finding out what JS is
- 	• Cooool discord server
+	• Coding website for a game
 	
 <hr/>
 
