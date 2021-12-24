@@ -16,6 +16,7 @@ Yes
 	
 	• A discord bot that you can code with in text channels
 	• An actually cool website
+	• Learning programming languages for no reason
 	
 <hr/>
 
